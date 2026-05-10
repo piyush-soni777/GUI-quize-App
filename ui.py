@@ -3,7 +3,7 @@ from quiz_brain import QuizBrain
 
 
 THEME_COLOR = "#375362"
-
+# importing colour
 
 class QuizInterface:
 
